@@ -26,5 +26,5 @@ if choice in ('1','2','3','4'):
     print("Result=",multiply(number1,number2))
   elif choice =='4':
     print("Result=",divide(number1,number2))
-  else:
-    print("Invalid input.Please enter a valid input")
+else:
+  print("Invalid input.Please enter a valid input")
