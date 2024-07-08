@@ -23,7 +23,7 @@ while True:
   print('Computer choice is \n',comp_choice_name)
   print(choice_name, 'Vs',comp_choice_name)
   if choice == comp_choice:
-    print('It's a Draw',end="")
+    print('Its a Draw',end="")
     result="DRAW"
   if (choice ==1 and comp_choice ==2):
     print('paper wins=>',end="")
